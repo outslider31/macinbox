@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    macinbox (4.1.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  macinbox!
+
+BUNDLED WITH
+   1.17.2
